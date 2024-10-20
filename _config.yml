@@ -26,6 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:andrey.korolkov@manchester.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/koriolismsu"}
   - {title: Google Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=gyS9MD4AAAAJ&hl=en"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/andrey-korolkov-1775ab236"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
