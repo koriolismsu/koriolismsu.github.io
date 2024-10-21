@@ -10,4 +10,4 @@ I did my PhD in mathematical physics under the supervision of [DSc Andrey Shanin
 My Research interests include diffraction theory, complex Analysis in 1 and 2 dimensions, and computational acoustics. 
 
 ![Giving a talk in Saint-Petersburg Steklov's institute](/assets/Talk_at_Steklov.jpg)
-Giving a talk in Saint-Petersburg Steklov's institute
+Giving a talk at St. Petersburg Department of Steklov Mathematical Institute
