@@ -9,4 +9,4 @@ I did my PhD in mathematical physics in the [Lomonosov Moscow State University](
 
 My Research interests include Diffraction theory, Complex Analysis in 1 and 2 dimensions, and computational acoustics. 
 
-![Giving a talk in Saint-Petersburg Steklov's institute](/assets/Talk_at_Steklov.jpg))
+![Giving a talk in Saint-Petersburg Steklov's institute](/assets/Talk_at_Steklov.jpg)
