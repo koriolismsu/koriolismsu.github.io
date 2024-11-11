@@ -18,7 +18,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "/CV_Korolkov.pdf"}
   - {title: "Research", file: "papers.md"}
   - {title: "MWM group", url: "https://www.mwmresearchgroup.org"}
-  - {title: "Other", file: "other.md"}
+  - {title: "Other", file: "other.html"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
