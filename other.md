@@ -5,7 +5,7 @@ title: ""
 
 ## Slides 
  
- [The Wiener--Hopf perspective on the embedding formula, BIRS 2024, Hangzhou](/AndreyKorolkov.pdf)
+ [The Wiener--Hopf perspective on the embedding formula, BIRS 2024, Hangzhou](slides/AndreyKorolkov.pdf)
 
 
 ## Videos of oral talks 
