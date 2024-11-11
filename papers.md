@@ -9,9 +9,9 @@ layout: post
 
 * Shanin, A. V., & Korolkov, A. I. (2022). Diffraction by a Dirichlet right angle on a discrete planar lattice. Quart. Appl. Math., 80, 277–315.
 
-* Shanin, A. V., Korolkov, A. I., & Kniazeva, K. S. (2022). Saddle Point Method for Transient Processes in Waveguides. In Journal of Theoretical and Computational Acoustics (Vol. 30, Issue 04).
+* Shanin, A. V., Korolkov, A. I., & Kniazeva, K. S. (2022). Saddle Point Method for Transient Processes in Waveguides. In Journal of Theoretical and Computational Acoustics (Vol. 30, Issue 04). [link](https://doi.org/10.1142/S2591728521500183)  [ArXiv](https://arxiv.org/pdf/2103.06537)
 
-* Korolkov, A. I., Kniazeva, K. S., & Shurup, A. S. (2022). Acoustic Location Based on Triple Correlation. Bulletin of the Russian Academy of Sciences: Physics, 86(1), 70–73.
+* Korolkov, A. I., Kniazeva, K. S., & Shurup, A. S. (2022). Acoustic Location Based on Triple Correlation. Bulletin of the Russian Academy of Sciences: Physics, 86(1), 70–73. 
 
 * Mironov, M. A., Shanin, A. V., Korolkov, A. I., & Kniazeva, K. S. (2021). Transient processes in a gas/plate structure in the case of light loading. Proceedings of the Royal Society A, 477(2253), 20210530.
 
