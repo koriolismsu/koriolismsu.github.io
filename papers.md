@@ -4,7 +4,7 @@ layout: post
 ---
 
 ## Peer-Reviewed papers
-1. Korolkov, A. I., & Kisil, A. V. (2024). Recycling solutions of boundary value problems: the Wiener--Hopf perspective on embedding formula (Version 1). arXiv. [ArXiv](https://doi.org/10.48550/ARXIV.2410.08684)
+1. Korolkov, A. I., & Kisil, A. V. (2024). Recycling solutions of boundary value problems: the Wiener--Hopf perspective on embedding formula (Version 1). arXiv. [ArXiv](https://arxiv.org/pdf/2410.08684)
 
 1. Shanin, A. V., Assier, R. C., Korolkov, A. I., & Makarov, O. I. (2024). Double Floquet-Bloch transforms and the far-field asymptotics of Green’s functions tailored to periodic structures. In Physical Review B (Vol. 110, Issue 2). American Physical Society (APS). [link](https://doi.org/10.1103/physrevb.110.024310) [ArXiv](https://arxiv.org/pdf/2402.08076)
 
@@ -18,25 +18,25 @@ layout: post
 
 1. Shanin, A. V., Korolkov, A. I., & Kniazeva, K. S. (2022). Integral Representations of a Pulsed Signal in a Waveguide. In Acoustical Physics (Vol. 68, Issue 4, pp. 316–325). Pleiades Publishing Ltd. [link](https://doi.org/10.1134/s1063771022040108)
   
-1. Shanin, A. V., & Korolkov, A. I. (2022). Diffraction by a Dirichlet right angle on a discrete planar lattice. Quart. Appl. Math., 80, 277–315.
+1. Shanin, A. V., & Korolkov, A. I. (2022). Diffraction by a Dirichlet right angle on a discrete planar lattice. Quart. Appl. Math., 80, 277–315. [link](https://doi.org/10.1090/qam/1612)  [Arxiv](https://arxiv.org/pdf/2009.03355)
 
 1. Shanin, A. V., Korolkov, A. I., & Kniazeva, K. S. (2022). Saddle Point Method for Transient Processes in Waveguides. In Journal of Theoretical and Computational Acoustics (Vol. 30, Issue 04). [link](https://doi.org/10.1142/S2591728521500183)  [ArXiv](https://arxiv.org/pdf/2103.06537)
 
-1. Korolkov, A. I., Kniazeva, K. S., & Shurup, A. S. (2022). Acoustic Location Based on Triple Correlation. Bulletin of the Russian Academy of Sciences: Physics, 86(1), 70–73. 
+1. Korolkov, A. I., Kniazeva, K. S., & Shurup, A. S. (2022). Acoustic Location Based on Triple Correlation. Bulletin of the Russian Academy of Sciences: Physics, 86(1), 70–73. [link](https://doi.org/10.3103/S1062873822010154)
 
-1. Mironov, M. A., Shanin, A. V., Korolkov, A. I., & Kniazeva, K. S. (2021). Transient processes in a gas/plate structure in the case of light loading. Proceedings of the Royal Society A, 477(2253), 20210530.
+1. Mironov, M. A., Shanin, A. V., Korolkov, A. I., & Kniazeva, K. S. (2021). Transient processes in a gas/plate structure in the case of light loading. Proceedings of the Royal Society A, 477(2253), 20210530. [link](https://doi.org/10.1098/rspa.2021.0530) [ArXiv](https://arxiv.org/pdf/2007.12687)
 
-1. Shanin, A. V., & Korolkov, A. I. (2020). Sommerfeld-type integrals for discrete diffraction problems. Wave Motion, 97, 102606.
+1. Shanin, A. V., & Korolkov, A. I. (2020). Sommerfeld-type integrals for discrete diffraction problems. Wave Motion, 97, 102606. [link](https://doi.org/10.1016/j.wavemoti.2020.102606) [ArXiv](https://arxiv.org/pdf/1908.04764)
 
-1. Korolkov, A. I., Andreev, V. G., Gramovich, V. V., Aleevskaya, A. M., Martynyuk, T. V., & Rudenko, O. V. (2020). Variational Method of Separation of the Aortic and Pulmonary Components of the Second Heart Sound. Doklady Physics, 65(8), 295–299.
+1. Korolkov, A. I., Andreev, V. G., Gramovich, V. V., Aleevskaya, A. M., Martynyuk, T. V., & Rudenko, O. V. (2020). Variational Method of Separation of the Aortic and Pulmonary Components of the Second Heart Sound. Doklady Physics, 65(8), 295–299. [link](https://doi.org/10.1134/S1028335820080042)
 
-1. Andreev, V. G., Gramovich, V. V., Krasikova, M. V., Korolkov, A. I., Vyborov, O. N., Danilov, N. M., Rudenko, O. V. (2020). Time--Frequency Analysis of The Second Heart Sound to Assess Pulmonary Artery Pressure. Acoustical Physics, 66(5), 542–547.
+1. Andreev, V. G., Gramovich, V. V., Krasikova, M. V., Korolkov, A. I., Vyborov, O. N., Danilov, N. M., Rudenko, O. V. (2020). Time--Frequency Analysis of The Second Heart Sound to Assess Pulmonary Artery Pressure. Acoustical Physics, 66(5), 542–547. [link](https://doi.org/10.1134/S1063771020050012)
 
-1. Korolkov, A. I., Knyazeva, K. S., & Shurup, A. S. (2020). Theoretical and Experimental Studies of the Correlation Characteristics of Signals Reflected by a Rotating Propeller. Acoustical Physics, 66(6), 676–682.
+1. Korolkov, A. I., Knyazeva, K. S., & Shurup, A. S. (2020). Theoretical and Experimental Studies of the Correlation Characteristics of Signals Reflected by a Rotating Propeller. Acoustical Physics, 66(6), 676–682. [link](https://doi.org/10.1134/S1063771020060056)
 
-1. Korolkov, A. I., Shanin, A. V., & Belous, A. A. (2019). Diffraction by an elongated Body of revolution with impedance boundaries: the boundary integral parabolic equation method. Acoustical Physics, 65(4), 340–347.
+1. Korolkov, A. I., Shanin, A. V., & Belous, A. A. (2019). Diffraction by an elongated Body of revolution with impedance boundaries: the boundary integral parabolic equation method. Acoustical Physics, 65(4), 340–347. [link](https://doi.org/10.1134/S1063771019040067)
 
-1. Shanin, A. V., & Korolkov, A. I. (2019). Diffraction by an elongated body of revolution. A boundary integral equation based on the parabolic equation. Wave Motion, 85, 176–190.
+1. Shanin, A. V., & Korolkov, A. I. (2019). Diffraction by an elongated body of revolution. A boundary integral equation based on the parabolic equation. Wave Motion, 85, 176–190. [link](https://doi.org/10.1016/j.wavemoti.2018.10.006) [ArXiv](https://arxiv.org/pdf/1704.08857)
 
 1. Shanin, A. V., Knyazeva, K. S., & Korolkov, A. I. (2018). Riemann surface of dispersion diagram of a multilayer acoustical waveguide. Wave Motion, 83, 148–172.
 
