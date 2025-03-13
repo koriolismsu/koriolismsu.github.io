@@ -14,7 +14,7 @@ layout: post
 
 1. Assier, R. C., Shanin, A. V., & Korolkov, A. I. (2024). A contribution to the mathematical theory of diffraction. Part II: Recovering the far-field asymptotics of the quarter-plane problem. In Quarterly Journal of Mechanics and Applied Mathematics (Vol. 77, Issues 1–2). Oxford University Press (OUP). [link](https://doi.org/10.1093/qjmam/hbae005) [ArXiv](https://arxiv.org/pdf/2310.18031)
 
-1. Saddle Point Method Interpretation of Transient Processes in Car Tires. (2023). In Supercomputing Frontiers and Innovations (Vol. 10, Issue 1). FSAEIHE South Ural State University (National Research University). [link](https://doi.org/10.14529/jsfi230103)
+1. Kniazeva, K.S., Yoshinori, S., Korolkov, A. I., Shanin, A.V. (2023). Saddle Point Method Interpretation of Transient Processes in Car Tires. (2023). In Supercomputing Frontiers and Innovations (Vol. 10, Issue 1). FSAEIHE South Ural State University (National Research University). [link](https://doi.org/10.14529/jsfi230103)
 
 1. Makarov, O. I., Shanin, A. V., & Korolkov, A. I. (2023). The Sommerfeld Integral in Problems of Simulating the Diffraction of Acoustic Waves Using a Triangular Lattice. In Acoustical Physics (Vol. 69, Issue 2, pp. 143–158). Pleiades Publishing Ltd. [link](https://doi.org/10.1134/s1063771023600080) 
 
