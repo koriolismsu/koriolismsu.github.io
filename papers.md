@@ -42,21 +42,21 @@ layout: post
 
 1. Shanin, A. V., & Korolkov, A. I. (2019). Diffraction by an elongated body of revolution. A boundary integral equation based on the parabolic equation. Wave Motion, 85, 176–190. [link](https://doi.org/10.1016/j.wavemoti.2018.10.006) [ArXiv](https://arxiv.org/pdf/1704.08857)
 
-1. Shanin, A. V., Knyazeva, K. S., & Korolkov, A. I. (2018). Riemann surface of dispersion diagram of a multilayer acoustical waveguide. Wave Motion, 83, 148–172.
+1. Shanin, A. V., Knyazeva, K. S., & Korolkov, A. I. (2018). Riemann surface of dispersion diagram of a multilayer acoustical waveguide. Wave Motion, 83, 148–172. [link](https://doi.org/10.1016/j.wavemoti.2018.09.010)
 
-1. Belous, A. A., Korol’kov, A. I., & Shanin, A. V. (2018). Experimental Estimation of the Frequency-Dependent Reflection Coefficient of a Sound-Absorbing Material at Oblique Incidence. Acoust. Phys., 64, 158–163.
+1. Belous, A. A., Korol’kov, A. I., & Shanin, A. V. (2018). Experimental Estimation of the Frequency-Dependent Reflection Coefficient of a Sound-Absorbing Material at Oblique Incidence. Acoust. Phys., 64, 158–163. [link](https://doi.org/10.1134/S1063771018020021)
 
-1. Denisov, S. L., & Korolkov, A. I. (2017). Investigation of noise-shielding efficiency with the method of sequences of maximum length in application to the problems of aviation acoustics. Acoustical Physics, 63(4), 462–477.
+1. Denisov, S. L., & Korolkov, A. I. (2017). Investigation of noise-shielding efficiency with the method of sequences of maximum length in application to the problems of aviation acoustics. Acoustical Physics, 63(4), 462–477. [link](https://doi.org/10.1134/S1063771017040017)
 
-1. Shanin, A. V., & Korolkov, A. I. (2017a). Boundary Integral Equation and the Problem of Diffraction by a Curved Surface for the Parabolic Equation of Diffraction Theory. Journal of Mathematical Sciences, 226(6), 817–830.
+1. Shanin, A. V., & Korolkov, A. I. (2017a). Boundary Integral Equation and the Problem of Diffraction by a Curved Surface for the Parabolic Equation of Diffraction Theory. Journal of Mathematical Sciences, 226(6), 817–830. [link](https://doi.org/10.1007/s10958-017-3569-z)
 
-1. Shanin, A. V., & Korolkov, A. I. (2017d). Diffraction of a mode close to its cut-off by a transversal screen in a planar waveguide. Wave Motion, 68, 218–241.
+1. Shanin, A. V., & Korolkov, A. I. (2017d). Diffraction of a mode close to its cut-off by a transversal screen in a planar waveguide. Wave Motion, 68, 218–241. [link](https://doi.org/10.1016/j.wavemoti.2016.10.002)
 
-1. Korolkov, A. I., & Shanin, A. V. (2016). The parabolic equation method and the Fresnel approximation in the application to Weinstein’s problems. Journal of Mathematical Sciences, 214(3), 302–321.
+1. Korolkov, A. I., & Shanin, A. V. (2016). The parabolic equation method and the Fresnel approximation in the application to Weinstein’s problems. Journal of Mathematical Sciences, 214(3), 302–321. [link](https://doi.org/10.1007/s10958-016-2779-0)
 
-1. Korol’kov, A. I., & Shanin, A. V. (2016b). High-frequency wave diffraction by an impedance segment at oblique incidence. Acoust. Phys., 62, 651–658.
+1. Korol’kov, A. I., & Shanin, A. V. (2016b). High-frequency wave diffraction by an impedance segment at oblique incidence. Acoust. Phys., 62, 651–658. [link](https://doi.org/10.1134/S1063771016050079)
 
-1. Korol’kov, A. I., & Shanin, A. V. (2016a). High-frequency plane wave diffraction by an ideal strip at oblique incidence: Parabolic equation approach. Acoust. Phys., 62(4), 405–413.
+1. Korol’kov, A. I., & Shanin, A. V. (2016a). High-frequency plane wave diffraction by an ideal strip at oblique incidence: Parabolic equation approach. Acoust. Phys., 62(4), 405–413. [link](https://doi.org/10.1134/S1063771016040096)
 
 1. Korolkov, A. I., Nazarov, S. A., & Shanin, A. V. (2016). Stabilizing solutions at thresholds of the continuous spectrum and anomalous transmission of waves. ZAMM-Journal of Applied Mathematics and Mechanics/Zeitschrift Für Angewandte Mathematik Und Mechanik, 96(10), 1245–1260.
 
