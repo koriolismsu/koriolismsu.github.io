@@ -58,16 +58,15 @@ layout: post
 
 1. Korol’kov, A. I., & Shanin, A. V. (2016a). High-frequency plane wave diffraction by an ideal strip at oblique incidence: Parabolic equation approach. Acoust. Phys., 62(4), 405–413. [link](https://doi.org/10.1134/S1063771016040096)
 
-1. Korolkov, A. I., Nazarov, S. A., & Shanin, A. V. (2016). Stabilizing solutions at thresholds of the continuous spectrum and anomalous transmission of waves. ZAMM-Journal of Applied Mathematics and Mechanics/Zeitschrift Für Angewandte Mathematik Und Mechanik, 96(10), 1245–1260.
+1. Korolkov, A. I., Nazarov, S. A., & Shanin, A. V. (2016). Stabilizing solutions at thresholds of the continuous spectrum and anomalous transmission of waves. ZAMM-Journal of Applied Mathematics and Mechanics/Zeitschrift Für Angewandte Mathematik Und Mechanik, 96(10), 1245–1260. [link](https://doi.org/10.1002/zamm.201500016)
 
-1. Shanin, A. V., & Korolkov, A. I. (2015a). Diffraction by an impedance strip I. Reducing diffraction problem to Riemann--Hilbert problems. The Quarterly Journal of Mechanics and Applied Mathematics, 68(3), 321–339.
+1. Shanin, A. V., & Korolkov, A. I. (2015a). Diffraction by an impedance strip I. Reducing diffraction problem to Riemann--Hilbert problems. The Quarterly Journal of Mechanics and Applied Mathematics, 68(3), 321–339. [link](https://doi.org/10.1093/qjmam/hbv010)
 
-1. Shanin, A. V., & Korolkov, A. I. (2015b). Diffraction by an impedance strip II. Solving Riemann--Hilbert problems by OE-equation method. The Quarterly Journal of Mechanics and Applied Mathematics, 68(3), 341–362.
+1. Shanin, A. V., & Korolkov, A. I. (2015b). Diffraction by an impedance strip II. Solving Riemann--Hilbert problems by OE-equation method. The Quarterly Journal of Mechanics and Applied Mathematics, 68(3), 341–362. [link](https://doi.org/10.1093/qjmam/hbv011)
 
-1. Korolkov, A. I., & Shanin, A. V. (2015a). Diffraction by a grating consisting of absorbing screens of different height. New equations. Journal of Mathematical Sciences, 206(3), 270–287.
+1. Korolkov, A. I., & Shanin, A. V. (2015a). Diffraction by a grating consisting of absorbing screens of different height. New equations. Journal of Mathematical Sciences, 206(3), 270–287. [link](https://doi.org/10.1007/s10958-015-2311-y)
 
-
-1. Korolkov, A. I., & Shanin, A. V. (2014). Wave reflection from a diffraction grating consisting of absorbing screens: Description in terms of the Wiener-Hopf-Fock method. Acoust. Phys., 60, 624–632.
+1. Korolkov, A. I., & Shanin, A. V. (2014). Wave reflection from a diffraction grating consisting of absorbing screens: Description in terms of the Wiener-Hopf-Fock method. Acoust. Phys., 60, 624–632. [link](https://doi.org/10.1134/S1063771014060177)
 
 1. Korolkov, A. I., Shanin, A. V., & Aleshkin, V. M. (2014). Analysis of excitation of billiard modes in a waveguide with a swell. Technical Acoustics/Tekhnicheskaya Akustika, (5).
 
