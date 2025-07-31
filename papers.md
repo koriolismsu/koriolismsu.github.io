@@ -4,6 +4,8 @@ layout: post
 ---
 
 ## Peer-Reviewed papers
+1. Korolkov, A.I.,  Assier, R.C. & Kisil, A.V. (2025). On an analogy between the Wiener–Hopf formulations of discrete and continuous diffraction problems. Submitted to IMA J. Appl. Math., 2025 [Arxiv](https://arxiv.org/pdf/2507.04979)
+
 1. Korolkov, A.I., Laptev, A.Y. & Shanin, A.V. (2024). Accounting for Viscous and Thermal Effects in Time Domain in Computational Acoustic Problems. In Acoustical Physics (Vol. 70, issue 6, pp. 1051–1057). Pleiades Publishing Ltd. [link](https://doi.org/10.1134/S106377102460311X)
    
 1. Laptev, A. Y., Korolkov, A. I., & Shanin, A. V. (2024). Theoretical and experimental study of diffraction by a thin cone. In Acoustical Physics (Vol. 70, issue 3, pp. 424-433), Pleiades Publishing Ltd. [link](https://doi.org/10.1134/S1063771023600754)
