@@ -6,11 +6,11 @@ layout: post
 ## Peer-Reviewed papers
 1. Korolkov, A.I.,  Assier, R.C. & Kisil, A.V. (2025). On an analogy between the Wiener–Hopf formulations of discrete and continuous diffraction problems. Submitted to IMA J. Appl. Math., 2025 [Arxiv](https://arxiv.org/pdf/2507.04979)
 
+1. Korolkov, A. I., & Kisil, A. V. (2025). Recycling solutions of boundary value problems: the Wiener--Hopf perspective on embedding formula. In R. Soc. Open Sci. 12241782. [link] (https://royalsocietypublishing.org/doi/10.1098/rsos.241782) [ArXiv](https://arxiv.org/pdf/2410.08684)
+
 1. Korolkov, A.I., Laptev, A.Y. & Shanin, A.V. (2024). Accounting for Viscous and Thermal Effects in Time Domain in Computational Acoustic Problems. In Acoustical Physics (Vol. 70, issue 6, pp. 1051–1057). Pleiades Publishing Ltd. [link](https://doi.org/10.1134/S106377102460311X)
    
 1. Laptev, A. Y., Korolkov, A. I., & Shanin, A. V. (2024). Theoretical and experimental study of diffraction by a thin cone. In Acoustical Physics (Vol. 70, issue 3, pp. 424-433), Pleiades Publishing Ltd. [link](https://doi.org/10.1134/S1063771023600754)
-
-1. Korolkov, A. I., & Kisil, A. V. (2024). Recycling solutions of boundary value problems: the Wiener--Hopf perspective on embedding formula (Version 1). arXiv. [ArXiv](https://arxiv.org/pdf/2410.08684)
 
 1. Shanin, A. V., Assier, R. C., Korolkov, A. I., & Makarov, O. I. (2024). Double Floquet-Bloch transforms and the far-field asymptotics of Green’s functions tailored to periodic structures. In Physical Review B (Vol. 110, Issue 2). American Physical Society (APS). [link](https://doi.org/10.1103/physrevb.110.024310) [ArXiv](https://arxiv.org/pdf/2402.08076)
 
