@@ -15,7 +15,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "/CV_Korolkov_jul_2025.pdf"}
+  - {title: "CV", url: "/AndreyKorolkovCV.pdf"}
   - {title: "Research", file: "papers.md"}
   - {title: "MWM group", url: "https://www.mwmresearchgroup.org"}
   - {title: "Other", file: "other.md"}
