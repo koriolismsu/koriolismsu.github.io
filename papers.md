@@ -4,7 +4,9 @@ layout: post
 ---
 
 ## Peer-Reviewed papers
-1. Korolkov, A.I.,  Assier, R.C. & Kisil, A.V. (2025). On an analogy between the Wiener–Hopf formulations of discrete and continuous diffraction problems. Submitted to IMA J. Appl. Math., 2025 [Arxiv](https://arxiv.org/pdf/2507.04979)
+1. Shanin, A.V., Korolkov, A.I., Artemov, N.M., Assier, R.C. (2026). Matrix representation of Picard--Lefschetz--Pham theory near the real plane in $\mathbb{C}^2$. Submitted to Memoirs of the AMS [Arxiv](https://arxiv.org/pdf/2412.02481)
+
+1. Korolkov, A.I.,  Assier, R.C. & Kisil, A.V. (2025). On an analogy between the Wiener–Hopf formulations of discrete and continuous diffraction problems. Submitted to IMA J. Appl. Math.,  [Arxiv](https://arxiv.org/pdf/2507.04979)
 
 1. Korolkov, A. I., & Kisil, A. V. (2025). Recycling solutions of boundary value problems: the Wiener--Hopf perspective on embedding formula. In R. Soc. Open Sci. 12241782. [link](https://royalsocietypublishing.org/doi/10.1098/rsos.241782) [ArXiv](https://arxiv.org/pdf/2410.08684)
 
