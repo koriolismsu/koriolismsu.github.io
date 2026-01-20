@@ -5,7 +5,7 @@ layout: post
 ---
 
 ## Peer-Reviewed papers
-1. Shanin, A.V., Korolkov, A.I., Artemov, N.M., Assier, R.C. (2026). Matrix representation of Picard--Lefschetz--Pham theory near the real plane in $`C^2`$. Submitted to Memoirs of the AMS, [Arxiv](https://arxiv.org/pdf/2412.02481)
+1. Shanin, A.V., Korolkov, A.I., Artemov, N.M., Assier, R.C. (2026). Matrix representation of Picard--Lefschetz--Pham theory near the real plane in C2. Submitted to Memoirs of the AMS, [Arxiv](https://arxiv.org/pdf/2412.02481)
 
 1. Korolkov, A.I.,  Assier, R.C. & Kisil, A.V. (2025). On an analogy between the Wiener–Hopf formulations of discrete and continuous diffraction problems. Submitted to IMA J. Appl. Math.,  [Arxiv](https://arxiv.org/pdf/2507.04979)
 
