@@ -5,7 +5,7 @@ title: ""
 
 ## Introduction to the mathematical theory of diffraction  
 
-### Lecture 1
+## Lecture 1
 
 Governing equations; Laplace operator in different coordinate systems;
 Green's function of Helmholtz equation; Plane waves; Plane wave decomposition;
