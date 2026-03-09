@@ -27,4 +27,4 @@ Plane wave decomposition for Green's function; Far field asymptotic;
 Video recording [part 1](https://youtu.be/TCt_ifc6HJc) [part 2](https://youtu.be/1YAKCMyl2AY)
 
 
- ## Lecture 2
+ ## Lecture 3
