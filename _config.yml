@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "/AndreyKorolkovCV.pdf"}
   - {title: "Research", file: "papers.md"}
   - {title: "Teaching", file: "teaching.md"}
-  - {title: "MWM group", url: "https://www.mwmresearchgroup.org"}
+  - {title: "MWM group", url: "http://www.mwmresearchgroup.org"}
   - {title: "Other", file: "other.md"}
 
 
