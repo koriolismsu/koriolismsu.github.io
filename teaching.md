@@ -1,31 +1,32 @@
 ---
 layout: page
-title: ""
+title: Teaching
 ---
 
-# Introduction to the mathematical theory of diffraction  
+# Introduction to the Mathematical Theory of Diffraction
 
-The course was delivered to PhD students of department of Mathematics of the University of Manchester in spring 2026
 
-## Lecture 1
+**University of Manchester – Department of Mathematics**  
+PhD Course, Spring 2026
 
-Governing equations; Laplace operator in different coordinate systems;
-Green's function of Helmholtz equation; Plane waves; Plane wave decomposition;
-Plane wave decomposition for Green's function; Far field asymptotic; 
- 
- [Lecture notes](diffraction%20theory/Lecture1_cm.pdf)
- 
- Video recording [part 1](https://youtu.be/Z8vu7MJwuKg) [part 2](https://youtu.be/xrk8fVitNPw)
- 
+---
 
-## Lecture 2
+## Lectures
 
- Mathematical statement of diffraction problem; Boundary conditions; Sommerfeld radiation condition; 
- Limiting absorption principle; Edge condition; Meixner series; Second Green's identity; 
- Field reconstruction formula; Boundary integral equation; Kirchhoff; Reciprocity theorem;
- 
- [Lecture notes](diffraction%20theory/Lecture2_cm.pdf)
+| Lecture | Topics | Notes | Video |
+|--------|--------|------|-------|
+| [1](#lecture1) | Governing equations; Laplace operator; Green's function of Helmholtz equation; plane waves; plane wave decomposition; far-field asymptotics | [PDF](diffraction_theory/Lecture1_cm.pdf) | [Part 1](https://youtu.be/Z8vu7MJwuKg) · [Part 2](https://youtu.be/xrk8fVitNPw) |
+| [2](#lecture2) | Mathematical statement of diffraction problem; boundary conditions; Sommerfeld radiation condition; limiting absorption principle; Meixner series | [PDF](diffraction_theory/Lecture2_cm.pdf) | [Part 1](https://youtu.be/TCt_ifc6HJc) · [Part 2](https://youtu.be/1YAKCMyl2AY) |
+| [3](#lecture3) | Edge diffraction; canonical diffraction problems | — | — |
 
-Video recording [part 1](https://youtu.be/TCt_ifc6HJc) [part 2](https://youtu.be/1YAKCMyl2AY)
 
-## Lecture 3
+
+
+
+## References
+
+Recommended literature for the course:
+
+- J. B. Keller – *Geometrical Theory of Diffraction*  
+- V. A. Fock – *Electromagnetic Diffraction and Propagation Problems*  
+- D. S. Jones – *Acoustic and Electromagnetic Waves*
