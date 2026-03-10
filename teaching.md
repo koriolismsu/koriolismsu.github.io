@@ -3,7 +3,9 @@ layout: page
 title: ""
 ---
 
-## Introduction to the mathematical theory of diffraction  
+# Introduction to the mathematical theory of diffraction  
+
+The course was delivered to PhD students of department of Mathematics of the University of Manchester in spring 2026
 
 ## Lecture 1
 
