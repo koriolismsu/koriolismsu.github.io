@@ -14,9 +14,9 @@ PhD Course, Spring 2026
 ## Lectures
 
 | Lecture | Topics | Notes | Video |
-|--------|--------|------|-------|
-| [1](#lecture1) | Governing equations; Laplace operator; Green's function of Helmholtz equation; plane waves; plane wave decomposition; far-field asymptotics | [PDF](diffraction_theory/Lecture1_cm.pdf) | [Part 1](https://youtu.be/Z8vu7MJwuKg) · [Part 2](https://youtu.be/xrk8fVitNPw) |
-| [2](#lecture2) | Mathematical statement of diffraction problem; boundary conditions; Sommerfeld radiation condition; limiting absorption principle; Meixner series | [PDF](diffraction_theory/Lecture2_cm.pdf) | [Part 1](https://youtu.be/TCt_ifc6HJc) · [Part 2](https://youtu.be/1YAKCMyl2AY) |
+|--------|--------|------|------|
+| [1](#lecture1) | Governing equations; Laplace operator; Green's function of Helmholtz equation; plane waves; plane wave decomposition; far-field asymptotics | [PDF](diffraction_theory/Lecture1_cm.pdf) | [Part 1](https://youtu.be/Z8vu7MJwuKg)  [Part 2](https://youtu.be/xrk8fVitNPw) |
+| [2](#lecture2) | Mathematical statement of diffraction problem; boundary conditions; Sommerfeld radiation condition; limiting absorption principle; Meixner series | [PDF](diffraction_theory/Lecture2_cm.pdf) | [Part 1](https://youtu.be/TCt_ifc6HJc)  [Part 2](https://youtu.be/1YAKCMyl2AY) |
 | [3](#lecture3) | Edge diffraction; canonical diffraction problems | — | — |
 
 
