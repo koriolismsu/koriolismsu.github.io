@@ -5,11 +5,14 @@ layout: post
 ---
 
 ## Peer-Reviewed papers
-1. Shanin, A.V., Korolkov, A.I., Artemov, N.M., Assier, R.C. (2026). Matrix representation of Picard--Lefschetz--Pham theory near the real plane in C2. Submitted to Memoirs of the AMS, [Arxiv](https://arxiv.org/pdf/2412.02481)
 
-1. Korolkov, A.I.,  Assier, R.C. & Kisil, A.V. (2025). On an analogy between the Wiener–Hopf formulations of discrete and continuous diffraction problems. Submitted to IMA J. Appl. Math.,  [Arxiv](https://arxiv.org/pdf/2507.04979)
+1. Korolkov, A.I., Kisil, A.V. (2026). Embedding formulae for diffraction problems on square lattices. Submitted to Proc. R. Soc. A., [ArXiv](https://arxiv.org/abs/2604.16050) 
 
-1. Korolkov, A. I., & Kisil, A. V. (2025). Recycling solutions of boundary value problems: the Wiener--Hopf perspective on embedding formula. In R. Soc. Open Sci. 12241782. [link](https://royalsocietypublishing.org/doi/10.1098/rsos.241782) [ArXiv](https://arxiv.org/pdf/2410.08684)
+1. Shanin, A.V., Korolkov, A.I., Artemov, N.M., Assier, R.C. (2026). Matrix representation of Picard--Lefschetz--Pham theory near the real plane in C2. Submitted to Complex Analysis and its Synergies, [ArXiv](https://arxiv.org/pdf/2412.02481)
+
+1. Korolkov, A.I.,  Assier, R.C. & Kisil, A.V. (2026). On an analogy between the Wiener–Hopf formulations of discrete and continuous diffraction problems. IMA J. Appl. Math.,hxag004, [link](https://doi.org/10.1093/imamat/hxag004)  [ArXiv](https://arxiv.org/pdf/2507.04979)
+
+1. Korolkov, A. I., & Kisil, A. V. (2025). The Wiener--Hopf perspective on embedding formula: reusing solutions of boundary value problems. In R. Soc. Open Sci. 12241782. [link](https://royalsocietypublishing.org/doi/10.1098/rsos.241782) [ArXiv](https://arxiv.org/pdf/2410.08684)
 
 1. Korolkov, A.I., Laptev, A.Y. & Shanin, A.V. (2024). Accounting for Viscous and Thermal Effects in Time Domain in Computational Acoustic Problems. In Acoustical Physics (Vol. 70, issue 6, pp. 1051–1057). Pleiades Publishing Ltd. [link](https://doi.org/10.1134/S106377102460311X)
    
