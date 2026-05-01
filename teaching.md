@@ -20,7 +20,7 @@ PhD Course, Spring 2026
 | [3](#lecture3) | Ray approximation; geometric theory of diffraction; canonical problems; Half-plane problem (problem statement) | [PDF](diffraction_theory/Lecture3_cm.pdf) | [Part 1](https://youtu.be/sMYwvGTaHj4)  [Part 2](https://youtu.be/Jjw0B90B3Ps)|
 | [4](#lecture4) | Solution of Half-plane problem using Sommerfeld integral| [PDF](diffraction_theory/Lecture4_cm.pdf) | [Part 1](https://youtu.be/rsmGhOxVkEM)  [Part 2](https://youtu.be/2KyEn8Nd4h0)|
 | [5](#lecture5) | Solution of Half-plane problem using the Wiener--Hopf method| [PDF](diffraction_theory/Lecture5_cm.pdf) | [Part 1](https://youtu.be/ryAaH049KWo)  [Part 2](https://youtu.be/Ibar3E_gOxU)|
-
+| [6](#lecture6) | Parabolic equation of diffraction theory; Green's function; Propagator formula; Half-plane in parabolic approximation| [PDF](diffraction_theory/Lecture6_cm.pdf) | [Part 1](https://youtu.be/PM7WutxYAHs)  [Part 2](https://youtu.be/2LEWtRJWq1U)|
 
 
 
