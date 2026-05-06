@@ -33,3 +33,4 @@ Recommended literature for the course:
 - V. M. Babich, V. S. Buldyrev. Short-Wavelength Diffraction Theory: Asymptotic Methods Springer, 1991.
 - A. Sommerfeld. Optics, Academic Press, 1954 (English translation).
 - B. Noble Methods Based on the Wiener–Hopf Technique Pergamon Press, 1958
+- V. A. Fock Electromagnetic diffraction and propagation problems. — London: Pergamon Press, 1965.
