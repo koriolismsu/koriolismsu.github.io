@@ -32,5 +32,6 @@ Recommended literature for the course:
 - J.B. Keller. Geometrical theory of diffraction. J. Opt. Soc. Am., 52:116–130, 1962. 
 - V. M. Babich, V. S. Buldyrev. Short-Wavelength Diffraction Theory: Asymptotic Methods Springer, 1991.
 - A. Sommerfeld. Optics, Academic Press, 1954 (English translation).
-- B. Noble Methods Based on the Wiener–Hopf Technique Pergamon Press, 1958
-- V. A. Fock Electromagnetic diffraction and propagation problems. — London: Pergamon Press, 1965.
+- B. Noble. Methods Based on the Wiener–Hopf Technique Pergamon Press, 1958
+- V. A. Fock. Electromagnetic diffraction and propagation problems. — London: Pergamon Press, 1965.
+- F. W. J. Olver. Asymptotics and Special Functions. - Academic Press, 2014
