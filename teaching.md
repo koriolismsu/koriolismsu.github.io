@@ -23,6 +23,7 @@ PhD Course, Spring 2026
 | [6](#lecture6) | Parabolic equation of diffraction theory; Green's function; Propagator formula; Half-plane in parabolic approximation| [PDF](diffraction_theory/Lecture6_cm.pdf) | [Part 1](https://youtu.be/PM7WutxYAHs)  [Part 2](https://youtu.be/2LEWtRJWq1U)|
 | [7](#lecture7) | Parabolic equation in polar coordinates; Diffraction by a cylinder; Airy equation; V. A. Fock solution| [PDF](diffraction_theory/Lecture7_cm.pdf) | [Part 1](https://youtu.be/aNpGpdqeJI4)  [Part 2](https://youtu.be/0_xb1vnYWdQ)|
 | [8](#lecture8) | Diffraction by a cylinder; Asymptotic analysis V. A. Fock solution; Saddle point method; Creeping waves | [PDF](diffraction_theory/Lecture8_cm.pdf) | [Part 1](https://youtu.be/NeaTXOZrx4k)  [Part 2](https://youtu.be/aC9K0ihYoZ4)|
+| [9](#lecture8) | Waveguides; Modes of plane waveguide; Green's function of a waveguide; Cylindrical waveguide; Diffraction by open-ended plane waveguide| [PDF](diffraction_theory/Lecture9_cm.pdf) | [Part 1](https://youtu.be/2j-RZZlZjkU)  [Part 2](https://youtu.be/frvyXx_odOA)|
 
 
 ## References
@@ -35,3 +36,4 @@ Recommended literature for the course:
 - B. Noble. Methods Based on the Wiener–Hopf Technique Pergamon Press, 1958
 - V. A. Fock. Electromagnetic diffraction and propagation problems. — London: Pergamon Press, 1965.
 - F. W. J. Olver. Asymptotics and Special Functions. - Academic Press, 2014
+- L. A. Weinstein. Open Resonators and Open Waveguides. Pp. 439, Golem Press, Boulder, Colo., 1969.
