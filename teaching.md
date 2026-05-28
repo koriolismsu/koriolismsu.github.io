@@ -23,8 +23,8 @@ PhD Course, Spring 2026
 | [6](#lecture6) | Parabolic equation of diffraction theory; Green's function; Propagator formula; Half-plane in parabolic approximation| [PDF](diffraction_theory/Lecture6_cm.pdf) | [Part 1](https://youtu.be/PM7WutxYAHs)  [Part 2](https://youtu.be/2LEWtRJWq1U)|
 | [7](#lecture7) | Parabolic equation in polar coordinates; Diffraction by a cylinder; Airy equation; V. A. Fock solution| [PDF](diffraction_theory/Lecture7_cm.pdf) | [Part 1](https://youtu.be/aNpGpdqeJI4)  [Part 2](https://youtu.be/0_xb1vnYWdQ)|
 | [8](#lecture8) | Diffraction by a cylinder; Asymptotic analysis V. A. Fock solution; Saddle point method; Creeping waves | [PDF](diffraction_theory/Lecture8_cm.pdf) | [Part 1](https://youtu.be/NeaTXOZrx4k)  [Part 2](https://youtu.be/aC9K0ihYoZ4)|
-| [9](#lecture8) | Waveguides; Modes of plane waveguide; Green's function of a waveguide; Cylindrical waveguide; Diffraction by open-ended plane waveguide| [PDF](diffraction_theory/Lecture9_cm.pdf) | [Part 1](https://youtu.be/2j-RZZlZjkU)  [Part 2](https://youtu.be/frvyXx_odOA)|
-
+| [9](#lecture9) | Waveguides; Modes of plane waveguide; Green's function of a waveguide; Cylindrical waveguide; Diffraction by open-ended plane waveguide| [PDF](diffraction_theory/Lecture9_cm.pdf) | [Part 1](https://youtu.be/2j-RZZlZjkU)  [Part 2](https://youtu.be/frvyXx_odOA)|
+| [10](#lecture10) | Resonators; Rayleigh quotient; Courant-Fisher minimax theorem; Estimation of the first eigenvalue in a Dirichlet resonator| [PDF](diffraction_theory/Lecture10_cm.pdf) | [Part 1](https://youtu.be/uf6PkJ0qwtw)  [Part 2](https://youtu.be/oo6-6tqXFGo)|
 
 ## References
 
